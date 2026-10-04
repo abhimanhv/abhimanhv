@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Abhiman H V
 
-<!--
-**abhimanhv/abhimanhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer | 🤖 AI & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm currently focused on building my programming and software development skills while working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- TypeScript
+- React Native
+- SQL
+- Git & GitHub
+
+### 💻 Areas of Interest
+
+- Software Development
+- Artificial Intelligence
+- Cloud Computing
+- Mobile Application Development
+
+### 📌 Current Project
+
+**FinSight** — An AI-powered personal finance management platform.
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/abhiman-h-v-6627122b4
+- ## Hi there 👋
+
+
